@@ -1,0 +1,13 @@
+RESPUESTA INTERACCIÓN 2 - EQUIPO 103
+
+Integrantes del equipo:
+BETA: Martinez Patricia  
+ALFA: Ortu Dan  
+GAMMA: Rodriguez Franco
+
+c-¿Puede GAMMA actualizar su FORK al estado del fork de ALFA?
+Si, debe agregar el repositorio del fork de Alfa
+
+d-¿Los datos que tenía en mi repositorio , editados por mi, se pierden si quiero actualizar
+el fork?
+No se pierden los datos, Git intenta combinar los cambios.
