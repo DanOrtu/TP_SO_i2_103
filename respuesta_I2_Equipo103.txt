@@ -3,8 +3,14 @@ RESPUESTA INTERACCIÓN 2 - EQUIPO 103
 Integrantes del equipo:
 BETA: Martinez Patricia  
 ALFA: Ortu Dan  
-GAMMA: Rodriguez Franco
+GAMMA: Rodriguez Cristiano Franco
 
+a-¿Cómo actualizo mi repositorio, al estado que esté el repo que hice FORK?
+La forma de actualizar mi repositorio al estado en el que esta el repositorio que hize fork es a traves del boton sync fork
+
+b-¿Puede ALFA actualizar su FORK al estado del fork de GAMMA?
+
+No, ya que no somos colaboradores del repositorio creado pro BETA, por lo tanto no tenemos relacion como colaboradores.
 c-¿Puede GAMMA actualizar su FORK al estado del fork de ALFA?
 Si, debe agregar el repositorio del fork de Alfa
 
